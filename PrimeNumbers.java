@@ -8,7 +8,7 @@ public class PrimeNumbers {
             }
         }
     }
-
+//hi mustafa
     
     private static boolean isPrime(int num) {
         if (num < 2) return false;
